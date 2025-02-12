@@ -1,0 +1,7 @@
+@use 'style' as v;
+
+
+body{
+    background-color:v.$cor-principal;
+    font-family: v.$fonte-principal;
+}
